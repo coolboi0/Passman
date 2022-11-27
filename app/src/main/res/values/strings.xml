@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Passman</string>
+    <string name="passman">Passman</string>
+    <string name="home_to_your_passwords">Home to your passwords</string>
+    <string name="save">SAVE</string>
+    <string name="create_pin">Create PIN</string>
+    <string name="enter_pin_again">Enter PIN again</string>
+    <string name="email_username">Email/Username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="show_saved_passwords">Show saved passwords</string>
+    <string name="website_name">Website name</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="update">Update</string>
+    <string name="show_all_passwords">Show All Passwords</string>
+</resources>
